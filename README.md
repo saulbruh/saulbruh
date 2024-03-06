@@ -10,9 +10,9 @@
 
 <p align="center">
 
-         Hi, im Saul Medina. I'm a student of Computer Science and I'm passionate about programming and technology. I'm always looking for new challenges and opportunities to learn and improve my skills.
+  Hi, im Saul Medina. I'm a student of Computer Science and I'm passionate about programming and technology. I'm always looking for new challenges and opportunities to learn and improve my skills.
     
-    I'm currently learning about web development and I'm interested in learning about game development and artificial intelligence. I'm also interested in learning about cybersecurity and ethical hacking.
+  I'm currently learning about web development and I'm interested in learning about game development and artificial intelligence. I'm also interested in learning about cybersecurity and ethical hacking.
 </p>
 
 <h3 align="center">Languages:</h3>
@@ -34,16 +34,10 @@
   <a href="https://www.linkedin.com/in/saul-medina-7b6741256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="..." target="_blank">
+  <a href="https://twitter.com/ssaulbruhh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-
-  <a href="https://discord.gg/dragonn_bruhh" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-
-  <a href="https://stackoverflow.com/users/YOUR_USER_ID" target="_blank">
+  <a href="https://stackoverflow.com/users/23538349/saul-medina" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
 </p>
